@@ -59,7 +59,7 @@
           <mxGeometry x="180" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-13" value="载荷谱统计方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="363" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="363" y="285" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5A_kX5_eG8WQkIxblnj_-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
