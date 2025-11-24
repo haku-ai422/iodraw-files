@@ -114,8 +114,8 @@
         <mxCell id="5A_kX5_eG8WQkIxblnj_-40" value="GTF齿轮传动发动机" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="200" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-41" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="309.54" y="200" width="60" height="30" as="geometry" />
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-41" value="GTF行星齿轮系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="309.54" y="200" width="100.46" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
