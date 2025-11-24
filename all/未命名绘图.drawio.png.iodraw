@@ -189,7 +189,7 @@
         <mxCell id="5A_kX5_eG8WQkIxblnj_-68" value="&lt;b&gt;仿真数据&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="507.96" y="467" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-69" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;真实物理系统&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-69" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;虚拟仿真系统&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="322" width="158" height="40" as="geometry" />
         </mxCell>
       </root>
