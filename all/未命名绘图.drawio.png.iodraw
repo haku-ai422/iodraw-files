@@ -142,7 +142,7 @@
           <mxGeometry x="407" y="111" width="25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-62" value="&lt;b&gt;实测物理数据&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230.00000000000003" y="325" width="77.5" height="30" as="geometry" />
+          <mxGeometry x="380.75" y="143" width="77.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-63" value="&lt;b&gt;仿真分析&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="161.33000000000004" y="473.51" width="76" height="30" as="geometry" />
