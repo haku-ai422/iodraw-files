@@ -179,14 +179,14 @@
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-73" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="895.22" y="536" as="sourcePoint" />
+            <mxPoint x="800" y="536" as="sourcePoint" />
             <mxPoint x="800" y="366" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-74" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="415.22" y="536" as="sourcePoint" />
-            <mxPoint x="895.22" y="536" as="targetPoint" />
+            <mxPoint x="800" y="536" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-75" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
