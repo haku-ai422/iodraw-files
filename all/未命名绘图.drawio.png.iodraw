@@ -135,7 +135,7 @@
         <mxCell id="5A_kX5_eG8WQkIxblnj_-51" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20" y="220" as="sourcePoint" />
-            <mxPoint x="490" y="220" as="targetPoint" />
+            <mxPoint x="500" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-52" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -147,7 +147,7 @@
         <mxCell id="5A_kX5_eG8WQkIxblnj_-53" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20" y="40" as="sourcePoint" />
-            <mxPoint x="490" y="40" as="targetPoint" />
+            <mxPoint x="500" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-54" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -169,7 +169,7 @@
           <mxGeometry x="434.47" y="96" width="39" height="48" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-62" value="&lt;b&gt;实测物理数据&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="167.5" width="77.5" height="30" as="geometry" />
+          <mxGeometry x="415.22" y="168" width="77.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-63" value="&lt;b&gt;在线实时测量&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="252.01" y="340" width="76" height="30" as="geometry" />
