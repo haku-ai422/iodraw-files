@@ -173,8 +173,8 @@
             <mxPoint x="495" y="212" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-104" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="415" y="247" width="60" height="30" as="geometry" />
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-104" value="数据共享" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="61" y="222" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
