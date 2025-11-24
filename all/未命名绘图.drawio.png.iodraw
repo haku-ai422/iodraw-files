@@ -157,7 +157,7 @@
           <mxGeometry x="370.50000000000006" y="367.51" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-102" value="" style="swimlane;startSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="11" y="42" width="200" height="200" as="geometry" />
+          <mxGeometry x="30" y="42" width="412" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
