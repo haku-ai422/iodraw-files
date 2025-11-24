@@ -130,7 +130,7 @@
           <mxGeometry x="128.82999999999998" y="310" width="120" height="113.01" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-49" value="&lt;b&gt;GTF行星齿轮系统仿真模型&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="259" y="495" width="160" height="30" as="geometry" />
+          <mxGeometry x="110" y="423.01" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-51" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -171,7 +171,7 @@
         <mxCell id="5A_kX5_eG8WQkIxblnj_-62" value="&lt;b&gt;实测物理数据&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="415.22" y="167.5" width="77.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-63" value="在线实时测量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-63" value="&lt;b&gt;在线实时测量&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="252.01" y="340" width="76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-64" value="" style="shape=mxgraph.signs.tech.rss;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;rotation=-45;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -184,7 +184,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-67" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_set;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="518.46" y="411.51" width="39" height="48" as="geometry" />
+          <mxGeometry x="353" y="342.51" width="39" height="48" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-68" value="&lt;b&gt;仿真数据&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="507.96" y="467" width="60" height="30" as="geometry" />
