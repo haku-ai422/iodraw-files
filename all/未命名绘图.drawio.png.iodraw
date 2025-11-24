@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-19" value="代理模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="390" width="117.75" height="40" as="geometry" />
+          <mxGeometry x="311.13" y="390" width="117.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-20" value="载荷谱统计方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="493" y="400" width="120" height="40" as="geometry" />
