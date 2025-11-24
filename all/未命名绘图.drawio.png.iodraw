@@ -126,14 +126,6 @@
             <mxPoint x="500" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-45" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-46" value="在线实时测量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5A_kX5_eG8WQkIxblnj_-44">
-          <mxGeometry x="-0.0558" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-47" value="真实运行数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="120" width="90" height="40" as="geometry" />
         </mxCell>
@@ -168,7 +160,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-55" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;物理实体&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" width="126" height="40" as="geometry" />
+          <mxGeometry x="250" width="126" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
