@@ -174,9 +174,6 @@
         <mxCell id="5A_kX5_eG8WQkIxblnj_-63" value="在线实时测量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="330" width="76" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-64" value="" style="shape=mxgraph.signs.tech.rss;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;rotation=-45;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="435.01" y="366" width="25" height="25" as="geometry" />
-        </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5A_kX5_eG8WQkIxblnj_-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="387" y="282" as="sourcePoint" />
@@ -187,7 +184,7 @@
           <mxGeometry x="519" y="335.51" width="39" height="48" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-68" value="仿真数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="508.5" y="396" width="60" height="30" as="geometry" />
+          <mxGeometry x="508.5" y="391" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
