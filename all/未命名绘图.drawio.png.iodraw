@@ -52,21 +52,6 @@
         <mxCell id="5A_kX5_eG8WQkIxblnj_-159" value="" style="swimlane;startSize=0;dashed=1;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="151" y="237" width="532" height="182" as="geometry" />
         </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-162" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;虚拟仿真系统&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;container=0;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-159">
-          <mxGeometry x="216.51999999999998" y="-8" width="76" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-164" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;载荷谱&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-159">
-          <mxGeometry x="80.84999999999997" y="68" width="57.79" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-180" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;rotation=0;container=0;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-159">
-          <mxGeometry x="194" y="83" width="40.51" height="10.96" as="geometry" />
-        </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-184" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;基于机器学习的应力/温度场快速计算方法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-159">
-          <mxGeometry x="238" y="75.5" width="153" height="25.01" as="geometry" />
-        </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-173" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-159">
-          <mxGeometry x="392" y="53" width="24" height="72" as="geometry" />
-        </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-172" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="289.98" y="183" width="16" height="54" as="geometry" />
         </mxCell>
@@ -84,6 +69,18 @@
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-107" value="&lt;b&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;行星齿轮动力学模型&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160.36" y="354.78" width="85.53" height="15.6" as="geometry" />
+        </mxCell>
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-162" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;虚拟仿真系统&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="367.52" y="229" width="76" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-164" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;载荷谱&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="231.84999999999997" y="305" width="57.79" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-180" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;rotation=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="345" y="320" width="40.51" height="10.96" as="geometry" />
+        </mxCell>
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-184" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;基于机器学习的应力/温度场快速计算方法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="389" y="312.5" width="153" height="25.01" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
