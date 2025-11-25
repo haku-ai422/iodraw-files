@@ -28,9 +28,6 @@
         <mxCell id="5A_kX5_eG8WQkIxblnj_-56" value="&lt;b&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;在线实时测量&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="407.1435540014214" y="117.40625" width="54.66209523809523" height="27.1875" as="geometry" />
         </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-62" value="&lt;b&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;实测物理数据&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="452.48099570717835" y="144.59375" width="55.74095238095238" height="27.1875" as="geometry" />
-        </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-59" value="" style="shape=mxgraph.signs.tech.rss;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;rotation=-45;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="427.7096842643923" y="141.875" width="13.52597014925373" height="13.59375" as="geometry" />
         </mxCell>
@@ -51,6 +48,9 @@
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-35" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;rotation=0;container=0;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-158">
           <mxGeometry x="108.12611047619049" y="65.42250000000001" width="22.778270476190478" height="12.6875" as="geometry" />
+        </mxCell>
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-62" value="&lt;b&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;实测物理数据&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-158">
+          <mxGeometry x="237" y="100.54" width="55.52" height="16.87" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-160" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="214" y="251.00000000000003" width="300" height="120" as="geometry" />
