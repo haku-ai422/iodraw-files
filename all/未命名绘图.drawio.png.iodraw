@@ -115,14 +115,6 @@
         <mxCell id="5A_kX5_eG8WQkIxblnj_-213" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;损伤累积模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-224">
           <mxGeometry x="420" y="100" width="57" height="20.89" as="geometry" />
         </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="5A_kX5_eG8WQkIxblnj_-224" source="5A_kX5_eG8WQkIxblnj_-203" target="5A_kX5_eG8WQkIxblnj_-213">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="401" y="77" />
-              <mxPoint x="401" y="122" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5A_kX5_eG8WQkIxblnj_-203" target="5A_kX5_eG8WQkIxblnj_-207">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
