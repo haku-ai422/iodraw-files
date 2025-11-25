@@ -87,8 +87,8 @@
         <mxCell id="5A_kX5_eG8WQkIxblnj_-107" value="&lt;b&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;行星齿轮动力学模型&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="234" y="370.2" width="85.53" height="15.6" as="geometry" />
         </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-158" value="" style="swimlane;startSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="207" y="101" width="314" height="107" as="geometry" />
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-158" value="" style="swimlane;startSize=0;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="207" y="100" width="314" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
