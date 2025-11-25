@@ -131,7 +131,7 @@
             <mxPoint x="590.3333333333333" y="353" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-229" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-229" value="载荷、温度、" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="544" y="190" width="94" height="26" as="geometry" />
         </mxCell>
       </root>
