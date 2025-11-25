@@ -77,7 +77,7 @@
           <mxGeometry x="194" y="83" width="40.51" height="10.96" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-184" value="基于机器学习的应力/温度场快速计算方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-159">
-          <mxGeometry x="239" y="77.98000000000002" width="105" height="21" as="geometry" />
+          <mxGeometry x="239" y="77.98" width="105" height="48.02" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-172" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="289.98" y="183" width="16" height="54" as="geometry" />
