@@ -57,9 +57,6 @@
             <mxPoint x="536.7424242786071" y="124.8635714285715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-180" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;rotation=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="274" y="313" width="36.51" height="10.96" as="geometry" />
-        </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5A_kX5_eG8WQkIxblnj_-184" target="5A_kX5_eG8WQkIxblnj_-203">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -130,6 +127,9 @@
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-49" value="&lt;b&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;行星齿轮有限元模型&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-224">
           <mxGeometry x="125.21000000000001" y="110.80000000000001" width="75.57" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-180" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;rotation=0;container=0;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-224">
+          <mxGeometry x="200.77999999999997" y="71" width="30.51" height="10.96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
