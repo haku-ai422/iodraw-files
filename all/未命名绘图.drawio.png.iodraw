@@ -29,7 +29,7 @@
           <mxGeometry x="223.35009523809524" y="177.21875" width="102.13180952380952" height="40.78125" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-41" value="&lt;b&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;GTF行星齿轮系统&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330.39430095238095" y="177.21875" width="88.2433219047619" height="39.875" as="geometry" />
+          <mxGeometry x="330.39" y="198" width="69.61" height="19.09" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-113" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5A_kX5_eG8WQkIxblnj_-39" target="5A_kX5_eG8WQkIxblnj_-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
