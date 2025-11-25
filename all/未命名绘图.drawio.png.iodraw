@@ -55,6 +55,9 @@
         <mxCell id="5A_kX5_eG8WQkIxblnj_-49" value="&lt;b&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;行星齿轮有限元模型&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-159">
           <mxGeometry x="123.12" y="116.57999999999998" width="75.57" height="18" as="geometry" />
         </mxCell>
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-194" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;应力场&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-159">
+          <mxGeometry x="403" y="43" width="36" height="18" as="geometry" />
+        </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-172" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="289.98" y="183" width="16" height="54" as="geometry" />
         </mxCell>
@@ -76,7 +79,7 @@
         <mxCell id="5A_kX5_eG8WQkIxblnj_-180" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;rotation=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="255" y="332" width="36.51" height="10.96" as="geometry" />
         </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-188" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5A_kX5_eG8WQkIxblnj_-184">
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-188" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5A_kX5_eG8WQkIxblnj_-184" target="5A_kX5_eG8WQkIxblnj_-194">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="402" y="247" as="sourcePoint" />
             <mxPoint x="467" y="337" as="targetPoint" />
@@ -87,9 +90,6 @@
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-184" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;基于机器学习的应力/温度场快速计算方法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="294.26" y="324.88" width="153" height="25.01" as="geometry" />
-        </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-194" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;应力场&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="421" y="249" width="57" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
