@@ -56,7 +56,7 @@
           <mxGeometry x="216.51999999999998" y="-8" width="76" height="34" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-177" value="" style="group" vertex="1" connectable="0" parent="5A_kX5_eG8WQkIxblnj_-159">
-          <mxGeometry x="312" y="44" width="145" height="92" as="geometry" />
+          <mxGeometry x="345" y="42" width="145" height="92" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-173" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-177">
           <mxGeometry y="10" width="50" height="72" as="geometry" />
@@ -76,7 +76,7 @@
         <mxCell id="5A_kX5_eG8WQkIxblnj_-180" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;rotation=0;container=0;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-159">
           <mxGeometry x="194" y="83" width="40.51" height="10.96" as="geometry" />
         </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-184" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-159">
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-184" value="基于机器学习的应力/温度场快速计算方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-159">
           <mxGeometry x="239" y="77.98000000000002" width="105" height="21" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-172" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
