@@ -131,8 +131,13 @@
             <mxPoint x="590.3333333333333" y="353" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5A_kX5_eG8WQkIxblnj_-229">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530.7777777777778" y="187" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-229" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;载荷、温度、材料参数不确定性&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="554" y="177" width="149" height="20" as="geometry" />
+          <mxGeometry x="556" y="177" width="147" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
