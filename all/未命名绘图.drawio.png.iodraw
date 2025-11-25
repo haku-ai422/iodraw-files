@@ -79,14 +79,14 @@
         <mxCell id="5A_kX5_eG8WQkIxblnj_-180" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;rotation=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="255" y="332" width="40.51" height="10.96" as="geometry" />
         </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5A_kX5_eG8WQkIxblnj_-184" target="5A_kX5_eG8WQkIxblnj_-186">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-184" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;基于机器学习的应力/温度场快速计算方法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="299" y="324.5" width="153" height="25.01" as="geometry" />
         </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-186" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;基于机器学习的应力/温度场快速计算方法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="532" y="324.5" width="153" height="25.01" as="geometry" />
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-188" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="402" y="247" as="sourcePoint" />
+            <mxPoint x="452" y="197" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
