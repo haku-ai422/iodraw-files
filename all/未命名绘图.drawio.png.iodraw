@@ -16,15 +16,6 @@
         <mxCell id="5A_kX5_eG8WQkIxblnj_-135" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;材料属性&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="367.71" y="217" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-113" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5A_kX5_eG8WQkIxblnj_-39" target="5A_kX5_eG8WQkIxblnj_-61">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="372.7047164179104" y="147.3125" as="sourcePoint" />
-            <mxPoint x="417.79128358208953" y="102" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-61" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ecs_service;rotation=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="471.3609957071784" y="127.95500000000001" width="17.98095238095238" height="21.577142857142857" as="geometry" />
-        </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-56" value="&lt;b&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;在线实时测量&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="407.1435540014214" y="117.40625" width="54.66209523809523" height="27.1875" as="geometry" />
         </mxCell>
@@ -51,6 +42,15 @@
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-62" value="&lt;b&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;实测物理数据&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-158">
           <mxGeometry x="237" y="100.54" width="55.52" height="16.87" as="geometry" />
+        </mxCell>
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-61" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ecs_service;rotation=0;container=0;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-158">
+          <mxGeometry x="255.77099570717843" y="57.07500000000002" width="17.98095238095238" height="21.577142857142857" as="geometry" />
+        </mxCell>
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-113" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="5A_kX5_eG8WQkIxblnj_-158" source="5A_kX5_eG8WQkIxblnj_-39" target="5A_kX5_eG8WQkIxblnj_-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="158.7047164179104" y="54.3125" as="sourcePoint" />
+            <mxPoint x="203.79128358208953" y="9" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-160" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="214" y="251.00000000000003" width="300" height="120" as="geometry" />
