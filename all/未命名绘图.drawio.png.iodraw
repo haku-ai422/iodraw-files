@@ -82,7 +82,7 @@
         <mxCell id="5A_kX5_eG8WQkIxblnj_-180" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;rotation=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="255" y="332" width="36.51" height="10.96" as="geometry" />
         </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-188" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5A_kX5_eG8WQkIxblnj_-184" target="5A_kX5_eG8WQkIxblnj_-194">
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-188" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5A_kX5_eG8WQkIxblnj_-184" target="5A_kX5_eG8WQkIxblnj_-194">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="402" y="247" as="sourcePoint" />
             <mxPoint x="467" y="337" as="targetPoint" />
@@ -97,10 +97,13 @@
         <mxCell id="5A_kX5_eG8WQkIxblnj_-184" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;基于机器学习的应力/温度场快速计算方法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="294.26" y="324.88" width="153" height="25.01" as="geometry" />
         </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-199" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5A_kX5_eG8WQkIxblnj_-184">
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-199" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5A_kX5_eG8WQkIxblnj_-184" target="5A_kX5_eG8WQkIxblnj_-195">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="459" y="320" as="sourcePoint" />
             <mxPoint x="509" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="447" y="375" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
