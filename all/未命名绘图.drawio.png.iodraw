@@ -73,6 +73,9 @@
         <mxCell id="5A_kX5_eG8WQkIxblnj_-164" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;载荷谱&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-159">
           <mxGeometry x="80.84999999999997" y="68" width="57.79" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-180" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;rotation=0;container=0;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-159">
+          <mxGeometry x="194" y="83" width="40.51" height="10.96" as="geometry" />
+        </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-172" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="289.98" y="183" width="16" height="54" as="geometry" />
         </mxCell>
