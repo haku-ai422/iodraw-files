@@ -5,13 +5,13 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="5A_kX5_eG8WQkIxblnj_-104" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;几何参数&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="242.99999999999997" y="200" width="46.98" height="22" as="geometry" />
+          <mxGeometry x="306" y="194" width="46.98" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-135" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;材料属性&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="302" y="196" width="60" height="30" as="geometry" />
+          <mxGeometry x="365" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-158" value="" style="swimlane;startSize=0;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="151" y="63" width="300" height="120" as="geometry" />
+          <mxGeometry x="214" y="57" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-41" value="&lt;b&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;GTF行星齿轮系统&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-158">
           <mxGeometry x="126.09999999999997" y="98.33" width="69.61" height="19.09" as="geometry" />
@@ -50,15 +50,15 @@
           <mxGeometry x="112" y="-9" width="76" height="34" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-172" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="289.98" y="183" width="16" height="54" as="geometry" />
+          <mxGeometry x="352.98" y="177" width="16" height="54" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-219" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5A_kX5_eG8WQkIxblnj_-61" target="5A_kX5_eG8WQkIxblnj_-207">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="473.74242427860713" y="130.8635714285715" as="targetPoint" />
+            <mxPoint x="536.7424242786071" y="124.8635714285715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-225" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="54" y="237" width="609" height="154" as="geometry" />
+          <mxGeometry x="80" y="231" width="609" height="154" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-154" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;rotation=0;container=0;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-225">
           <mxGeometry x="89.49000000000001" y="82.91000000000003" width="36.51" height="10.96" as="geometry" />
