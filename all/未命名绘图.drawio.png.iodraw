@@ -58,8 +58,8 @@
         <mxCell id="5A_kX5_eG8WQkIxblnj_-195" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;温度场&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-159">
           <mxGeometry x="361.64" y="124.57999999999998" width="36" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-200" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-159">
-          <mxGeometry x="397.64" y="62" width="50" height="74" as="geometry" />
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-200" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="5A_kX5_eG8WQkIxblnj_-159">
+          <mxGeometry x="397.64" y="60" width="50" height="74" as="geometry" />
         </mxCell>
         <mxCell id="5A_kX5_eG8WQkIxblnj_-172" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="289.98" y="183" width="16" height="54" as="geometry" />
