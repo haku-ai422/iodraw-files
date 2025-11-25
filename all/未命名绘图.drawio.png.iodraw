@@ -122,7 +122,7 @@
             <mxPoint x="473.74242427860713" y="130.8635714285715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5A_kX5_eG8WQkIxblnj_-222" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5A_kX5_eG8WQkIxblnj_-222" value="系统疲劳寿命预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="299" width="73" height="27.96" as="geometry" />
         </mxCell>
       </root>
